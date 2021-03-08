@@ -1,0 +1,11 @@
+{
+  "name": "ignite-github-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mhayk Whandson <hi@mhayk.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
